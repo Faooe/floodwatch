@@ -125,4 +125,4 @@ Sync Gradle dan jalankan di Emulator atau Device.
 **Husin Nafarin Ramadhani**  
 Universitas Islam Negeri Antasari Banjarmasin  
 
-© 2025 FloodWatch Project. All Rights Reserved.
+© 2025 Husin Nafarin Ramadhani. All Rights Reserved.
